@@ -1,0 +1,4 @@
+ticker,rsi,rsi_signal,ma_50,ma_200,ma_signal,avg_volume,current_volume,volume_spike,overall_signal
+AAPL,37.97,neutral,260.21,247.7,golden_cross,40546695.0,47842500,False,buy
+MSFT,22.29,oversold,410.02,477.38,death_cross,32756360.0,37763600,False,buy
+NVDA,35.84,neutral,183.48,179.21,golden_cross,180721205.0,195294300,False,buy
